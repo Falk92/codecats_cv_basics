@@ -22,3 +22,15 @@ body {
 .add {
 	font-size: 16px;
 }
+
+/*.addbutton {
+  margin-bottom: 25px!important;
+}*/
+
+.addbutton {
+  position: fixed!important;
+  bottom: 0!important;
+  right: 0!important;
+  margin-right: 225px !important;
+  margin-bottom: 25px !important;
+}
