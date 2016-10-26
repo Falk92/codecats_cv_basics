@@ -4,8 +4,17 @@ body {
 
 .searchbar {
 	float:right;
+	margin-right: 25px;
 }
 
 .contact {
 	margin-left: 25px;
+}
+
+.gitbutton {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	margin-right: 25px !important;
+	margin-bottom: 25px !important;
 }
