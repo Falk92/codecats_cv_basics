@@ -2,6 +2,11 @@ body {
 	padding-top: 25px;
 }
 
+.create-body {
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
 .searchbar {
 	float:right;
 	margin-right: 25px;
